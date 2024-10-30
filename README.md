@@ -15,7 +15,7 @@ A definição de um objetivo de BI deve focar no impacto positivo para o negóci
 ### Levantamento de Indicadores 
  Processo de definir e selecionar métricas específicas que permitirão monitorar e avaliar o progresso em relação aos objetivos de negócio. Os indicadores servem para medir a performance de processos e ações, fornecendo dados quantificáveis que ajudam a guiar decisões estratégicas
 
-### Estudo de Fontes de Dados 
+## Estudo de Fontes de Dados 
  Qual a fonte de dados disponível para medir o indicador;
   Ex:
     - Banco de Dados
